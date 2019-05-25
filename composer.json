@@ -1,0 +1,50 @@
+{
+  "name": "7rver",
+  "description": "A php server-side app lite",
+  "minimum-stability": "beta",
+  "prefer-stable": true,
+  "license": "Apache-2.0",
+  "type": "project",
+  "keywords": [
+    "iot",
+    "IoT",
+    "Internet of Things",
+    "rest",
+    "middleware",
+    "open source",
+    "json",
+    "jwt",
+    "firebase",
+    "couchbase",
+    "google",
+    "php",
+    "design pattens",
+    "internet of things",
+    "internet of everything",
+    "automation",
+    "industry automation",
+    "home automation",
+    "web services",
+    "resful",
+    "rest api",
+    "sql",
+    "mongodb",
+    "brazil",
+    "brasil"
+  ],
+  "support": {
+    "email": "gresendesa@gmail.com",
+    "github": "https://github.com/gresendesa/"
+  },
+  "authors": [
+    {
+      "name": "Guilherme Sá",
+      "email": "gresendesa@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
